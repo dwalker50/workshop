@@ -1,0 +1,44 @@
+---
+title: "git_01"
+author: "Donovan Walker"
+date: "Fall semester"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+# Build a Poem with commits
+Our project will be done using a sequence of save and commits.
+
+## First Verse 
+P’Twas brillig, and the slithy toves 
+      Did gyre and gimble in the wabe: 
+All mimsy were the borogoves, 
+      And the mome raths outgrabe. 
+
+“Beware the Jabberwock, my son! 
+      The jaws that bite, the claws that catch! 
+Beware the Jubjub bird, and shun 
+      The frumious Bandersnatch!”
+
+## Second Verse
+Two roads diverged in a yellow wood,
+And sorry I could not travel both
+And be one traveler, long I stood
+And looked down one as far as I could
+To where it bent in the undergrowth;
+
+Then took the other, as just as fair,
+And having perhaps the better claim,
+Because it was grassy and wanted wear;
+Though as for that the passing there
+Had worn them really about the same,
+
+## Third Verse
+The sun was shining on the sea, Shining with all his might: He did his very best to make The billows smooth and bright– And this was odd, because it was The middle of the night.
+
+The moon was shining sulkily, Because she thought the sun Had got no business to be there After the day was done– “It’s very rude of him,” she said, “To come and spoil the fun!”
+
+## Last Verse
+We thought Fingers in dirt meant it was our dirt, learning Names in heat, in elements classical Philosophers said could change us. Star Gazer. Foxglove. Summer seemed to bloom against the will Of the sun, which news reports claimed flamed hotter On this planet than when our dead fathers Wiped sweat from their necks. Cosmos. Baby’s Breath. Men like me and my brothers filmed what we Planted for proof we existed before Too late, sped the video to see blossoms Brought in seconds, colors you expect in poems Where the world ends, everything cut down.
